@@ -19,6 +19,7 @@ SZR-IP, tek bir IP adresi hakkında farklı kaynaklardan bilgi toplayan, hızlı
 ```bash
 git clone https://github.com/szrkalitr/SZR-IP.git
 cd SZR-IP
+unzip Szr-ip.zip
 pip install -r requirements.txt
 ```
 
